@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jpdrops.github.io/sitemap.xml
